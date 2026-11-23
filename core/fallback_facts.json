@@ -1,0 +1,26 @@
+{
+    "math": [
+        "Zero is neither positive nor negative.",
+        "The angles in any plane triangle add up to 180 degrees.",
+        "Pi is irrational: its decimal expansion never ends and never repeats.",
+        "The square of any real number is non-negative."
+    ],
+    "date": [
+        "A common year has 365 days, while a leap year has 366.",
+        "A week has seven days.",
+        "In the Gregorian calendar, most leap years occur every four years.",
+        "A day has 24 hours."
+    ],
+    "year": [
+        "A decade is a period of ten years.",
+        "A century is a period of one hundred years.",
+        "The Gregorian calendar has no year zero.",
+        "The year 2000 was a leap year."
+    ],
+    "trivia": [
+        "An octopus has three hearts.",
+        "A banana is botanically classified as a berry.",
+        "Giraffes have seven neck vertebrae, the same number as humans.",
+        "Honey can remain edible for a very long time when stored properly."
+    ]
+}
